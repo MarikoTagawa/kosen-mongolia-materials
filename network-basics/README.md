@@ -2,7 +2,7 @@
 
 This folder contains learning materials for the **Network Basics** course.
 This course was developed by Mariko Tagawa based on the Networking Basics course in CISCO Network Academy.
-This course was delivered to 4 and 5 grade students from the Computer Science department of Mongol Kosen.
+This course was delivered to 4th and 5th grade students from the Computer Science department of Mongol Kosen.
 
 ## Contents
 - `slides/` — Visual explanations of basic networking concepts (OSI, IP, etc.)
