@@ -5,7 +5,7 @@ This folder contains learning materials for the **Network Basics** course.
 ## Contents
 - `slides/` — Visual explanations of basic networking concepts (OSI, IP, etc.)
 - `hands-on/` — Activities for students to practice network commands and tools
-- `packet_tracers/` — CISCO Packet Tracer files
+- `packet_tracers/` — CISCO Packet Tracer files and instruction files for exercises.
 - `checktests/` — Sample questions for knowledge checks
 
 ## Course Goals
