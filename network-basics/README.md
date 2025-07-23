@@ -46,5 +46,26 @@ The **midterm and final exams** are located in the `checktests/` folder, along w
 - Use various tools to test and troubleshoot network connectivity.
 - Configure an integrated wireless router and wireless client to connect securely to the internet.
 
+## Course Schedule (34 Classes, 2x per Week)
 
+| Class | Topic | Details |
+|-------|-------|---------|
+| 1–2   | **Course Introduction** | - Course Overview<br>- Installation of Packet Tracer |
+| 3–4   | **Module 1: Communication in a Connected World** | -  Network Types, Data Transmission<br> - Bandwidth and Throughput |
+| 5–6   | **Module 2: Network Components, Types, and Connections** | - Clients and Servers,br> - Network Components<br> - ISP Connectivity Options |
+| 7–8   | **Module 4: Build a Home Network** | - Home Network Basics<br> - Network Technologies in the Home<br> - Wireless Standards |
+| 9–10  | **Module 5: Communication Principles** | - Communication Protocols<br> - Communication Standards<br> - Network Communication Models  |
+| 11–12 | **Module 7: The Access Layer** | - Encapsulation and the Ethernet Frame<br> - The Access Layer |
+| 13–14 | **Module 8: The Internet Protocol** | - Purpose of an IPv4 Address<br> - The IPv4 Address Structure  |
+| 15–16 | **Module 9: IPv4 and Network Segmentation** | - IPv4 Unicast, Broadcast, and Multicast<br> - Types of IPv4 Addresses<br> - Network Segmentation |
+| 17–18 | **Midterm Exam** | - Covers Modules 1 to 9 |
+| 19–20 | **Module 11: Dynamic Addressing with DHCP** | - Static and Dynamic Addressing<br> - DHCPv4 Configuration |
+| 21–22 | **Module 12: Gateways to Other Networks** | - Network Boundaries<br> - Network Address Translation |
+| 23–24 | **Module 13: The ARP Process** | - MAC and IP<br> - Broadcast Containment |
+| 25–26 | **Module 14: Routing Between Networks** | -  The Need for Routing<br> - The Routing Table<br> - Create a LAN |
+| 27–28 | **Module 15: TCP and UDP** | -  TCP and UDP<br> - Port Numbers |
+| 29–30 | **Module 16: Application Layer Services** | - The Client Server Relationship<br> - DNS, HTTP, FTP, Telnet, Email|
+| 31–32 | **Module 17: Network Testing Utilities** | - Use tools like ping, traceroute, and ipconfig |
+| 33    | **Final Exam** | - End-of-term comprehensive test |
+| 34    |  **Review Session & Certification** | - Final Q&A and course summary<br>- Students received **CISCO Networking Academy course completion certificates** |
 ---
