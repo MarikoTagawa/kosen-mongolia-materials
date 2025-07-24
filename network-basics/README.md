@@ -18,6 +18,9 @@ To conduct this course, both teachers and students need the following:
 Instructions for setting up these tools are provided in the PowerPoint deck:  
 **`slides/01_NetworkBasics_2025_2P.pptx`**
 
+**Textbook**: 
+「図解入門　TCP/IP」みやたひろし　(https://amzn.to/3TV78iA)
+
 ## How to Use the Materials
 
 ### 1. Class Structure
