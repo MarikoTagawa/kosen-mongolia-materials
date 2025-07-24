@@ -43,12 +43,15 @@ Each class session is structured around a PowerPoint presentation found in the `
 
 Throughout the course, students are assigned to create documents for the system they are developing. Exercises include writing:
 
-- Requirements Definition Document  
-- External Design Document  
-- Internal Design Document  
+- Requirements Definition Document  (実習_要件定義書フォーマット.docx)
+- External Design Document  (実習_外部設計書フォーマット.docx)
+- Internal Design Document  (実習_内部設計書フォーマット.docx)
 
 Templates for these are available in the `Hands-on/` folder.
 
+### 3. Google Forms
+- The Google Forms for quizzes, check tests, midterm test, and final term test are stored on my Google Drive.
+If you need access to the Google Forms, please contact **Mariko Tagawa**.
 ---
 
 ## 授業内容／週ごとの到達目標  
