@@ -32,6 +32,10 @@ Each class session is structured around a PowerPoint presentation found in the `
 
 In the second half of each class, conduct a hands-on networking exercise using **Cisco Packet Tracer**. Instructions for these activities are embedded in the PowerPoint slides. The corresponding simulation files are available in the `packet_tracers/` folder.
 
+### 3. Google Forms
+The Google Forms for quizzes, check tests, midterm test, and final term test are stored on my Google Drive. (https://drive.google.com/drive/folders/1HqLJR4dRIdOAd1Oy6QB_2XXDqhUHT9DU?usp=drive_link). If you need access to the Google Forms, please contact **Mariko Tagawa**.
+
+
 ## Exams
 
 The **midterm and final exams** are located in the `checktests/` folder, along with the answer sheets.
