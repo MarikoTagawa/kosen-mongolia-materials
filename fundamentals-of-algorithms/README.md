@@ -14,7 +14,7 @@ The goal of this course is to introduce students to the foundational concepts of
 ## Folder Structure
 
 - `slides/` — PowerPoint slide `Fundamentals_Algorithms.pptx` — Complete slide deck containing all lesson materials, examples, and instructions.
-This file is read-only. In order to modify the powerpoint file, please contact **Mariko Tagawa**.
+This file is **read-only**. In order to modify the powerpoint file, please contact **Mariko Tagawa**.
 
 ## Prerequisites
 
