@@ -50,7 +50,7 @@ Throughout the course, students are assigned to create documents for the system 
 Templates for these are available in the `Hands-on/` folder.
 
 ### 3. Google Forms
-- The Google Forms for quizzes, check tests, midterm test, and final term test are stored on my Google Drive.
+- The Google Forms for quizzes, check tests, midterm test, and final term test are stored on my Google Drive. (https://drive.google.com/drive/folders/104e4_driLGsHXh3y7fpXJRPBTTF0Q_7K?usp=drive_link)
 If you need access to the Google Forms, please contact **Mariko Tagawa**.
 ---
 
