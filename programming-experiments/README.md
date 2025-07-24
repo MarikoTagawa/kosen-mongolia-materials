@@ -35,7 +35,7 @@ All tools and installation instructions are introduced in the first class.
 
 ## Folder Structure
 
-- `slides/` — PowerPoint slide decks used throughout the 16 classes. PowerPoint files are readonly. In order to modify files, please contact **Mariko Tagawa**.
+- `slides/` — PowerPoint slide decks used throughout the 16 classes. PowerPoint files are **read-only**. In order to modify files, please contact **Mariko Tagawa**.
 - `templates/` — Python sample code and templates used during class demonstrations and labs.
 
 ---
