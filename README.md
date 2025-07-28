@@ -1,106 +1,78 @@
 # Kosen Mongolia Materials
 
-Welcome to the official repository of shared teaching materials for computer science and programming courses at Mongolian Kosens (Colleges of Technology).
+*Available in: [日本語](./README.ja.md) | [Монгол хэл](./README.mn.md)*
 
-This repository is maintained to support Kosen educators in Mongolia by providing organized, hands-on, and classroom-tested resources developed through real teaching practice.
+This repository was created by **Mariko Tagawa**, a JICA Volunteer, to share educational materials used in computer science classes at three Mongolian Kosen schools during her assignment from 2023 to 2025:
+
+- Mongol Koosen College of Technology (MKTK)  
+- New Mongol College of Technology (NMCT)  
+- Mongolian University of Science and Technology Kosen (MUST)
+
+It includes curriculum materials, lecture slides, lab exercises, and test files used in actual classes. The goal is to enable shared use and collaborative development of teaching materials across all Mongolian Kosen institutions.
 
 ---
 
 ## Purpose
 
-- Share learning materials across Mongolian Kosen campuses
-- Encourage collaboration among teachers and curriculum developers
-- Support practice-based learning in computer science and programming
-- Enable transparency and open access to resources for continuous improvement
+- Enable teachers to freely use and modify course materials for their own classes  
+- Promote cross-Kosen collaboration to improve curriculum quality and consistency  
+- Support self-learning for teachers through hands-on exercises and sample solutions  
+- Share practical knowledge and best practices from Japanese IT engineers
 
 ---
 
 ## Courses Included
 
-### [System Analysis & Design](./system-analysis-design/)
-Materials for understanding the system development life cycle, modeling techniques, and designing practical software/system specifications.
+### [1. System Analysis & Design](./system-analysis-design/)  
+Materials for understanding the system development life cycle, modeling techniques, and designing practical software/system specifications.  
+Delivered at: New Mongol Kosen (NMCT) in 2024  
+Target: 3rd-grade students, Computer Science Department
 
-### [Network Basics](./network-basics/)
-Resources focused on foundational networking concepts, IP addressing, configuration labs, and hands-on simulations.
+### [2. Network Basics](./network-basics/)  
+Resources focused on foundational networking concepts, IP addressing, hands-on Packet Tracer simulations, and configuration labs.  
+Delivered at: Mongol Kosen (MKTK) in 2024–2025  
+Target: 4th & 5th-grade students, Computer Science Department
 
-### [Programming Experiments](./programming-experiments/)
-A project-based course using Python and Pygame where students create interactive programs like games or animations.
+### [3. Programming Experiments](./programming-experiments/)  
+A project-based Python course using Pygame where students build animations and games using graphical programming techniques.  
+Delivered at: MUST Kosen in 2025  
+Target: 2nd-grade students, Computer Science Department
 
-### [Fundamentals of Algorithms](./fundamentals-of-algorithms/)
-Materials to help students learn the logic behind problem-solving, basic algorithm design, and Python implementations.
+### [4. Fundamentals of Algorithms](./fundamentals-of-algorithms/)  
+Materials for building problem-solving skills and learning algorithm design using Flowgorithm, a visual flowchart-based programming tool.  
+Delivered at: MUST Kosen in 2025  
+Target: 1st-grade students, Computer Science Department
 
----
-
-## [Miscellaneous Resources](./misc/)
-Shared templates, guides, and reusable resources to support teachers and students in any course.
+### [5. Japanese for IT](./it-japanese/slides/)  
+Resources for learning basic Japanese with a focus on technical vocabulary and communication in IT fields.  
+Delivered at: MUST Kosen in 2024  
+Target: 2nd-grade students, Japanese beginners in the Computer Science Department
 
 ---
 
 ## Folder Structure
+
 kosen-mongolia-materials/
-│
-├── system-analysis-design/        # System Analysis & Design
-│   ├── slides/                    # Lecture slides
-│   ├── exercises/                 # Hands-on practice / worksheets
-│   ├── examples/                  # Example diagrams or reports
-│   ├── projects/                  # Group/individual project templates
-│   └── syllabus.md                # Optional: course outline
-
-├── network-basics/                # Network Basics
-│   ├── slides/
-│   ├── hands-on/
-│   ├── labs/                      # Packet Tracer or simulation files
-│   ├── quizzes/
-│   └── syllabus.md
-
-├── programming-experiments/        # Programming Experiments
-│   ├── slides/
-│   ├── exercises/
-│   ├── mini-projects/             # Student example games/animations
-│   ├── templates/                 # Design sheets or submission templates
-│   └── syllabus.md
-
-├── fundamentals-of-algorithms/    # Fundamentals of Algorithms
-│   ├── slides/
-│   ├── code-samples/              # Python algorithm examples
-│   ├── exercises/
-│   ├── visualizations/            # Algorithm animations or links
-│   └── syllabus.md
-
-├── misc/                          # Other resources
-│   ├── templates/                 # Shared document templates
-│   ├── guides/                    # Setup or teaching guides
-│   ├── student-resources/         # General advice, tutorials, etc.
-│   └── README.md
-
-├── README.md                      # Top-level overview
-└── LICENSE                        # Licensing information
-
-
----
-
-## Contributions
-
-This repository is open to contributions from Kosen teachers and collaborators. You are welcome to:
-- Use, modify, and redistribute materials
-- Suggest improvements via issues
-- Submit additions through pull requests
-
----
-
-## Maintainer
-
-**Mariko Tagawa**  
-JICA Volunteer, Mongolia  
-Supporting technical education and IT resource development in Kosen colleges
-
----
-
-## License
-
-All materials are shared under a permissive educational license.  
-Please credit the original authors where applicable. See [LICENSE](./LICENSE) for more details.
-
----
-
-**Let’s build a stronger future for Kosen students together! **
+├── system-analysis-design/
+│ ├── README.md
+│ ├── slides/
+│ ├── checktests/
+│ └── Hands-on/
+├── network-basics/
+│ ├── README.md
+│ ├── slides/
+│ ├── packet_tracers/
+│ └── checktests/
+├── programming-experiments/
+│ ├── README.md
+│ ├── slides/
+│ └── templates/
+├── fundamentals-of-algorithms/
+│ ├── README.md
+│ └── slides/
+├── it-japanese/
+│ ├── slides/
+│ ├── checktests/
+│ └── slides/README.md
+├── LICENSE
+└── README.md
