@@ -1,4 +1,4 @@
-# 日本語版 README.md
+日本語版 README.md
 
 # Kosen Mongolia Materials（モンゴル高専教材共有リポジトリ）
 
