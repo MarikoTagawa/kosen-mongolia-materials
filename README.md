@@ -76,7 +76,9 @@ kosen-mongolia-materials/
 │   ├── checktests/
 │   └── slides/README.md
 ├── LICENSE
-└── README.md
+├── README.md
+├── README.ja.md
+└── README.mn.md
 ```
 ---
 
