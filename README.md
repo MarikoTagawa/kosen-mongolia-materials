@@ -52,27 +52,61 @@ Target: 2nd-grade students, Japanese beginners in the Computer Science Departmen
 
 ## Folder Structure
 
+```
 kosen-mongolia-materials/
 ├── system-analysis-design/
-│ ├── README.md
-│ ├── slides/
-│ ├── checktests/
-│ └── Hands-on/
+│   ├── README.md
+│   ├── slides/
+│   ├── checktests/
+│   └── Hands-on/
 ├── network-basics/
-│ ├── README.md
-│ ├── slides/
-│ ├── packet_tracers/
-│ └── checktests/
+│   ├── README.md
+│   ├── slides/
+│   ├── packet\_tracers/
+│   └── checktests/
 ├── programming-experiments/
-│ ├── README.md
-│ ├── slides/
-│ └── templates/
+│   ├── README.md
+│   ├── slides/
+│   └── templates/
 ├── fundamentals-of-algorithms/
-│ ├── README.md
-│ └── slides/
+│   ├── README.md
+│   └── slides/
 ├── it-japanese/
-│ ├── slides/
-│ ├── checktests/
-│ └── slides/README.md
+│   ├── slides/
+│   ├── checktests/
+│   └── slides/README.md
 ├── LICENSE
 └── README.md
+```
+---
+
+## Contributions
+
+This repository is open to contributions from Kosen teachers and collaborators. You are welcome to:
+
+- Use, modify, and redistribute materials  
+- Suggest improvements via Issues  
+- Submit additions via Pull Requests  
+
+> Note: Many PowerPoint and PDF files are read-only.  
+> To edit them, please contact **Mariko Tagawa** to request the password.
+
+---
+
+## Maintainer
+
+**Mariko Tagawa**  
+JICA Volunteer, Mongolia (2023.10.25–2025.09.24)  
+Supporting technical education and IT resource development in Kosen colleges
+
+---
+
+## License
+
+All materials are shared under a permissive educational license.  
+Please credit the original authors where applicable.  
+See [LICENSE](./LICENSE) for more details.
+
+---
+
+Let’s build a stronger future for Kosen students together.
